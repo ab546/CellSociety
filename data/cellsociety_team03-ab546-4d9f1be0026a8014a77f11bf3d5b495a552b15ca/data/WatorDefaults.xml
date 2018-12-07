@@ -1,0 +1,11 @@
+<Default type="Wator" grid="0">
+	<title>Wator Simulation</title>
+	<author>Alex Blumenstock</author>
+	<fishTurns>3</fishTurns>
+	<sharkTurns>3</sharkTurns>
+<size>10</size>
+	<fishPercent>20</fishPercent>
+	<sharkPercent>20</sharkPercent>
+	<sharkstarves>5</sharkstarves>
+	<shape>square</shape>
+	<speed>3</speed></Default>

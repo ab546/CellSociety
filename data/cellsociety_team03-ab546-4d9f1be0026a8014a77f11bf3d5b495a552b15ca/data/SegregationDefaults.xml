@@ -1,0 +1,9 @@
+<Default type="Segregation" grid="0">
+	<title>Segregation Simulation</title>
+	<author>Alex Blumenstock</author><percentSimilar>30</percentSimilar><percentBlue>20</percentBlue>
+	
+	<percentRed>20</percentRed>
+	<speed>3</speed><size>10</size>
+	<shape>hexagonal</shape>
+	<states>red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red</states>
+</Default> 	

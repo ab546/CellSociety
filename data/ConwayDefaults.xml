@@ -1,0 +1,9 @@
+<Default type="Conway" grid="1">
+	<title>Conway Simulation</title>
+	<author>Alex Blumenstock</author>
+	<size>10</size>
+	<speed>3</speed>
+	<shape>square</shape>
+	<states>dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead dead</states>
+<toroidal>false</toroidal>
+</Default>

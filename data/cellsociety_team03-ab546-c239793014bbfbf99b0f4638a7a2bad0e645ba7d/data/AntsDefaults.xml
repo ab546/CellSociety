@@ -1,0 +1,11 @@
+<Default type="Ants" grid="0">
+	<title>Segregation Simulation</title>
+	<author>Alex Blumenstock</author>
+	<percentAnts>10</percentAnts>
+	<percentFood>20</percentFood>
+	<percentObstacles>20</percentObstacles>
+	<speed>3</speed>
+	<size>10</size>
+	<shape>hexagonal</shape>
+	<toroidal>false</toroidal>
+</Default> 	

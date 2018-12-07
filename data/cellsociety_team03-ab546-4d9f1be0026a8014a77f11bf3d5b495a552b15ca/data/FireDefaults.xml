@@ -1,0 +1,8 @@
+<Default type="Fire" grid="0">
+	<title>Fire Simulation</title>
+	<author>Alex Blumenstock</author>
+	<probCatch>20</probCatch>
+	<size>10</size>
+	<speed>3</speed>
+	<shape>square</shape>
+	</Default>

@@ -1,0 +1,7 @@
+<?xml version=”1.0” ?>
+<Default>
+	<percentSimilar>30</percentSimilar>
+	<percentBlue>20</percentBlue>
+	<percentRed>20</percentRed>
+	<size>20</size>
+</Default> 	
